@@ -3,7 +3,7 @@
 You can contribute good quality code for relevant problems in Deep Learning
 ----------------------------
 
-* Add your file in a relevant folder.
+* Add your file in a relevant folder (create new if required).
 * Dataset source must be clearly mentioned.
 * Don't repeat code that already exists.
 * Write code on your own. Do not copy.
